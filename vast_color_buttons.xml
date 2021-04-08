@@ -70,7 +70,7 @@
 							</Tracking>
 						</TrackingEvents>
 						<AdParameters>
-							<![CDATA[{ "buttonForegroundColor": "red", "buttonBackgroundColor": "yellow" }]]>
+							<![CDATA[{ "buttonForegroundColor": "#ff0000", "buttonBackgroundColor": "#00ff00" }]]>
 						</AdParameters>
 						<VideoClicks>
 							<ClickThrough>http://clk.streamgo.ru/click?bid=22937&amp;ctx=CI7p8fsFEghhdml0by5ydRjRrd6qDSIkCgdBbmRyb2lkEgU2LjAuMBgBIg5GaXJlZm94IE1vYmlsZShEKQAAAAAAgFZAMQAAAAAAAAAAOiQzYWQ0MzgxNi03MDNhLTQ0MzgtOWZiOS1mZDY1ODZhM2M5ZjdAN0oCMThQlQJY8wpgmbMBagdiZXR3ZWVucAB6DGJldHdlZW5fdGVzdIIBA1VTRIoBJDFlMjJiMDA2LTZmZGEtNDY5Ni1hNzkyLWY2YTQwMDIxMDUxZJEBh6dXyjKIU0CoAQDAAZUZ0AEC2gECMznpAa7FP59nbvI_8AEA&amp;oid=1395&amp;pid=19&amp;plid=55&amp;ref=between.ru</ClickThrough>
